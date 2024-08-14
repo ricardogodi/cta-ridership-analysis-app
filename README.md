@@ -9,11 +9,8 @@ The program is designed to handle large datasets efficiently, leveraging Python'
 ## Files Included
 
 - **main.py**: The main entry point of the application, containing the command-loop and user interaction logic.
-- **datatier.py**: Handles direct interactions with the SQLite database, including SQL queries and data retrieval.
-- **objecttier.py**: Contains the business logic, transforming raw data into structured objects that represent CTA L stations, ridership data, and more.
 - **Makefile**: A simple Makefile to run the application or clean up the directory.
 - **CTA2_L_daily_ridership.db**: The SQLite database containing the CTA L ridership data.
-- **README.md**: This file, providing an overview of the project, instructions, and a description of included files.
 
 ## Instructions for Running the Application
 
